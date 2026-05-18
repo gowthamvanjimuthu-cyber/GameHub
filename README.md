@@ -10,7 +10,8 @@ A **React-based Game Hub** featuring multiple mini-games:
 
 🔗 **Live MVP Demo**
 
- 
+  https://gowthamk-dev.github.io/GameHub/
+  
 ---
 
 ## 🚀 Features
